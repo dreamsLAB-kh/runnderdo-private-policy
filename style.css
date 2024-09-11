@@ -1,0 +1,30 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url("paper-texture.jpg"); /* Replace 'paper-texture.jpg' with the path to your paper texture image */
+  background-size: cover;
+  font-family: Arial, sans-serif; /* Optional: Choose a suitable font for your content */
+  color: #333;
+  line-height: 1.5;
+  letter-spacing: 1.2;
+}
+.content {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.9
+  ); /* Optional: Set a semi-transparent white background for content */
+  border-radius: 10px; /* Optional: Add rounded corners to the content */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  font-size: small;
+  font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+  padding-top: 12px;
+}
